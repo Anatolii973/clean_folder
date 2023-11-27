@@ -4,7 +4,7 @@ from setuptools import setup
 setup(name="clean_folder",
       version="0.1.0",
       description="My class",
-      url="https://github.com/LAV1970/Homework_2",
+      url="https://https://github.com/Anatolii973/clean_folder/blob/master/setup.py",
       author="Anatoliy Kedis",
       author_email="tolkedis73@gmail.com",
       license="MIT",
